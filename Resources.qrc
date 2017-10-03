@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Camera.png</file>
+        <file>Plus.png</file>
+        <file>Minus.png</file>
+        <file>Cog.png</file>
+        <file>NewFile.png</file>
+        <file>FileOpen.png</file>
+        <file>FileSave.png</file>
+        <file>FileClose.png</file>
+        <file>Build.png</file>
+    </qresource>
+</RCC>
